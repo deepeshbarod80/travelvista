@@ -1,0 +1,170 @@
+[
+  {
+    "_id": {
+      "$oid": "653441167c11e03b70e91625"
+    },
+    "authorName": "Isabella Rodriguez",
+    "title": "Hidden Gems of Santorini: Beyond the Tourist Trail",
+    "imageLink": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=800&q=80",
+    "categories": ["Travel", "Greece", "Islands"],
+    "description": "Discover the secret spots of Santorini that most tourists never see. From hidden beaches with black volcanic sand to traditional villages untouched by time, this journey reveals the authentic soul of Greece's most famous island. We'll explore ancient ruins, taste local wines in family-owned vineyards, and witness sunsets from secluded clifftops that offer a more intimate experience than the crowded Oia.",
+    "isFeaturedPost": true,
+    "timeOfPost": {
+      "$date": "2024-01-15T10:30:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "653441167c11e03b70e91626"
+    },
+    "authorName": "Marcus Chen",
+    "title": "Tokyo After Midnight: A Neon-Lit Adventure",
+    "imageLink": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&q=80",
+    "categories": ["Travel", "Japan", "City", "Night"],
+    "description": "Experience Tokyo's electric nightlife through the eyes of a local. From hidden ramen shops in narrow alleys to rooftop bars with panoramic city views, discover why Tokyo truly comes alive after dark. We'll navigate the maze of Shibuya, explore the quirky themed cafes of Harajuku, and end the night at a traditional izakaya where salary workers unwind after long days.",
+    "isFeaturedPost": true,
+    "timeOfPost": {
+      "$date": "2024-01-12T18:45:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "653441167c11e03b70e91627"
+    },
+    "authorName": "Amara Okafor",
+    "title": "Safari Dreams: Witnessing the Great Migration in Kenya",
+    "imageLink": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=800&q=80",
+    "categories": ["Travel", "Africa", "Wildlife", "Adventure"],
+    "description": "Join me on an unforgettable safari adventure through Kenya's Maasai Mara, where millions of wildebeest, zebras, and gazelles make their annual journey. This is more than just wildlife viewing – it's witnessing one of nature's greatest spectacles. From luxury tented camps to authentic Maasai village visits, experience the raw beauty and cultural richness of East Africa.",
+    "isFeaturedPost": true,
+    "timeOfPost": {
+      "$date": "2024-01-10T07:20:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "653441167c11e03b70e91628"
+    },
+    "authorName": "Lars Andersen",
+    "title": "Chasing Northern Lights in Iceland's Wilderness",
+    "imageLink": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=800&q=80",
+    "categories": ["Travel", "Iceland", "Nature", "Aurora"],
+    "description": "Embark on a magical journey through Iceland's winter wonderland in pursuit of the elusive Aurora Borealis. From the dramatic landscapes of the Ring Road to the geothermal wonders of the Blue Lagoon, discover why Iceland is the ultimate destination for northern lights enthusiasts. Learn the best photography techniques, optimal viewing locations, and how to maximize your chances of witnessing this celestial dance.",
+    "isFeaturedPost": true,
+    "timeOfPost": {
+      "$date": "2024-01-08T22:15:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "653441167c11e03b70e91629"
+    },
+    "authorName": "Priya Sharma",
+    "title": "Backpacking Through the Himalayas: A Spiritual Journey",
+    "imageLink": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&q=80",
+    "categories": ["Travel", "Nepal", "Mountains", "Trekking"],
+    "description": "Follow my transformative 21-day trek through the Annapurna Circuit, where every step brings new challenges and revelations. From bustling Kathmandu to remote mountain villages, experience the warmth of Nepalese hospitality and the breathtaking beauty of the world's highest peaks. This journey is about more than reaching base camp – it's about discovering inner strength and finding peace in the mountains.",
+    "isFeaturedPost": false,
+    "timeOfPost": {
+      "$date": "2024-01-05T14:30:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "653441167c11e03b70e9162a"
+    },
+    "authorName": "Carlos Mendoza",
+    "title": "Culinary Adventures in Peru: From Lima to Cusco",
+    "imageLink": "https://images.unsplash.com/photo-1526392060635-9d6019884377?w=800&q=80",
+    "categories": ["Travel", "Peru", "Food", "Culture"],
+    "description": "Embark on a gastronomic journey through Peru, where ancient Incan traditions meet modern culinary innovation. From street food markets in Lima to traditional pachamanca ceremonies in the Sacred Valley, taste your way through one of the world's most diverse cuisines. Discover how altitude affects flavor, learn to prepare ceviche from local fishermen, and understand why Peru is considered South America's culinary capital.",
+    "isFeaturedPost": false,
+    "timeOfPost": {
+      "$date": "2024-01-03T11:45:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "653441167c11e03b70e9162b"
+    },
+    "authorName": "Sophie Laurent",
+    "title": "Cycling Through Provence: Lavender Fields and Medieval Villages",
+    "imageLink": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&q=80",
+    "categories": ["Travel", "France", "Cycling", "Countryside"],
+    "description": "Pedal through the enchanting landscapes of Provence, where purple lavender fields stretch to the horizon and medieval villages perch on hilltops like scenes from a fairy tale. This cycling adventure takes you through the heart of French countryside, stopping at local markets, family-run vineyards, and charming bed-and-breakfasts. Experience the slower pace of life that makes Provence so magical.",
+    "isFeaturedPost": false,
+    "timeOfPost": {
+      "$date": "2024-01-01T09:20:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "653441167c11e03b70e9162c"
+    },
+    "authorName": "Ahmed Hassan",
+    "title": "Desert Dreams: Camping Under Stars in Morocco's Sahara",
+    "imageLink": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&q=80",
+    "categories": ["Travel", "Morocco", "Desert", "Adventure"],
+    "description": "Experience the magic of the Sahara Desert with a traditional Berber camping expedition. From camel trekking across golden dunes to sleeping under a canopy of stars, discover the timeless beauty of Morocco's desert landscape. Learn about Berber culture, enjoy traditional tagines cooked over open fires, and witness sunrises that paint the dunes in shades of gold and crimson.",
+    "isFeaturedPost": false,
+    "timeOfPost": {
+      "$date": "2023-12-28T16:10:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "653441167c11e03b70e9162d"
+    },
+    "authorName": "Emma Thompson",
+    "title": "Island Hopping in Croatia: Adriatic Paradise",
+    "imageLink": "https://images.unsplash.com/photo-1555990538-c673de4b2ba3?w=800&q=80",
+    "categories": ["Travel", "Croatia", "Islands", "Beaches"],
+    "description": "Sail through Croatia's stunning Dalmatian coast, where crystal-clear waters meet ancient stone cities. From the lavender fields of Hvar to the waterfalls of Krka National Park, each island offers its own unique charm. Discover hidden coves accessible only by boat, dine on fresh seafood in waterfront tavernas, and explore medieval towns that seem frozen in time.",
+    "isFeaturedPost": false,
+    "timeOfPost": {
+      "$date": "2023-12-25T13:55:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "653441167c11e03b70e9162e"
+    },
+    "authorName": "Kenji Nakamura",
+    "title": "Cherry Blossom Season: A Journey Through Japan's Spring",
+    "imageLink": "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&q=80",
+    "categories": ["Travel", "Japan", "Spring", "Culture"],
+    "description": "Follow the sakura front from Okinawa to Hokkaido, experiencing Japan's most celebrated season. From hanami picnics in Tokyo's parks to temple visits in Kyoto surrounded by pink petals, discover the cultural significance and natural beauty of cherry blossom season. Learn about the Japanese art of mono no aware – the bittersweet awareness of the impermanence of all things.",
+    "isFeaturedPost": false,
+    "timeOfPost": {
+      "$date": "2023-12-22T08:30:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "653441167c11e03b70e9162f"
+    },
+    "authorName": "Victoria Sterling",
+    "title": "Scottish Highlands: Castles, Lochs, and Highland Games",
+    "imageLink": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800&q=80",
+    "categories": ["Travel", "Scotland", "History", "Nature"],
+    "description": "Journey through Scotland's dramatic Highlands, where ancient castles guard mysterious lochs and Highland traditions live on. From the legendary Loch Ness to the remote Isle of Skye, experience the raw beauty and rich history of Scotland. Attend a traditional Highland Games, learn about clan heritage, and discover why this rugged landscape has inspired countless legends and stories.",
+    "isFeaturedPost": false,
+    "timeOfPost": {
+      "$date": "2023-12-20T15:40:00.000Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "653441167c11e03b70e91630"
+    },
+    "authorName": "Diego Fernandez",
+    "title": "Patagonia Expedition: Land of Fire and Ice",
+    "imageLink": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80",
+    "categories": ["Travel", "Patagonia", "Adventure", "Nature"],
+    "description": "Venture into one of Earth's last great wildernesses, where glaciers meet granite peaks and condors soar overhead. This expedition through Argentine and Chilean Patagonia takes you to the edge of the world, from the ice fields of Los Glaciares National Park to the windswept plains of the pampas. Experience the raw power of nature in a landscape that remains largely unchanged since the dawn of time.",
+    "isFeaturedPost": false,
+    "timeOfPost": {
+      "$date": "2023-12-18T12:25:00.000Z"
+    }
+  }
+]

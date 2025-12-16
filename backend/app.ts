@@ -15,7 +15,7 @@ const app = express();
 app.use(
   cors({
     // added origin
-    origin: [FRONTEND_URL as string, 'http://localhost:3000'],
+    origin: [FRONTEND_URL as string, 'http://localhost:5173'],
     credentials: true,
   })
 );
@@ -33,7 +33,7 @@ app.use('/api/auth', authRouter);
 app.use('/api/user', userRouter);
 
 app.get('/', (req, res) => {
-  res.send('Yay!! Backend of wanderlust app is now accessible');
+  res.send('Yay!! Backend of Travelvista app is now accessible');
 });
 
 app.all('*', (req, res) => {
