@@ -5,7 +5,7 @@
 ### 1. Install Node.js
 ```bash
 # Install Node.js (v18 or higher)
-curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
@@ -46,6 +46,12 @@ redis-cli ping
 ## Project Setup
 
 ### 1. Clone and Install Dependencies
+```bash
+# head to code directory
+cd ./travelvista
+npm run installer
+```
+
 ```bash
 cd /path/to/your/projects
 git clone <repository-url>
