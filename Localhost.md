@@ -47,6 +47,12 @@ redis-cli ping
 
 ### 1. Clone and Install Dependencies
 ```bash
+# head to code directory
+cd ./travelvista
+npm run installer
+```
+
+```bash
 cd /path/to/your/projects
 git clone <repository-url>
 cd travelvista
