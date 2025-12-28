@@ -1,11 +1,11 @@
 # Travelvista Local Development Setup
 
-## Prerequisites
+## Prerequisites for Node Js launch
 
 ### 1. Install Node.js
 ```bash
 # Install Node.js (v18 or higher)
-curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
